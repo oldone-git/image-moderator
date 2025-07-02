@@ -12,7 +12,7 @@ FastAPI application for image moderation using DeepAI NSFW detector.
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/oldone-git/image-moderator
 cd image-moderator
 
     Create virtual environment
